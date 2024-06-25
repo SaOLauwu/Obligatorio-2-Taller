@@ -1,18 +1,9 @@
 ---
 name: Template de documentación
 about: Template para crear issues acerca de la documentación del repositorio.
-title: ''
+title: Issue Documentación
 labels: ''
 assignees: SaOLauwu
-
----
-
----
-name: Solicitud de Documentación
-about: Solicitar nueva documentación o mejora de la existente.
-title: "[Documentación] Título descriptivo aquí"
-labels: documentation
-assignees: ''
 
 ---
 
